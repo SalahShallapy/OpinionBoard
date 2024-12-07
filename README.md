@@ -22,29 +22,30 @@ OpinionBoard is a feature-rich React application designed to allow users to shar
 
 ## Features
 
+<!-- prettier ignore  -->
+
 1.  User Input Handling:
 
-- Users can submit opinions with titles, body text, and usernames via an interactive form.
+    - Users can submit opinions with titles, body text, and usernames via an interactive form.
 
 2.  Form Validation:
 
-- Real-time validation ensures title, body, and username meet specified criteria before submission.
+    - Real-time validation ensures title, body, and username meet specified criteria before submission.
 
 3.  Context API:
 
-- Global state management using the Context API for handling opinions and votes efficiently.
+    - Global state management using the Context API for handling opinions and votes efficiently.
 
 4.  HTTP Requests:
 
-- Asynchronous communication with a backend to fetch, post, and update opinion data via RESTful endpoints.
+    - Asynchronous communication with a backend to fetch, post, and update opinion data via RESTful endpoints.
 
 5.  Voting System:
 
-- Users can upvote or downvote opinions, with optimistic UI updates ensuring smooth feedback.
+    - Users can upvote or downvote opinions, with optimistic UI updates ensuring smooth feedback.
 
 6.  Dynamic UI Rendering:
-
-- Opinions are rendered dynamically, reflecting real-time changes from user interactions.
+    - Opinions are rendered dynamically, reflecting real-time changes from user interactions.
 
 ## Usage
 
