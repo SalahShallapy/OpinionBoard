@@ -72,7 +72,7 @@ OpinionBoard
 │   userOpinion.png
 │
 │
-└───public
+└───backend
 │    app.js
 │    db.json
 │    package-lock.json
