@@ -20,7 +20,7 @@ OpinionBoard is a feature-rich React application designed to allow users to shar
 
 ![Project OverView](./public/userOpinion.png)
 
-# Features
+## Features
 
 1.  User Input Handling:
 
@@ -70,6 +70,13 @@ OpinionBoard
 │   overview.png
 │   userInput.png
 │   userOpinion.png
+│
+│
+└───public
+│    app.js
+│    db.json
+│    package-lock.json
+│    package.json
 │
 └───src
     │   App.jsx
