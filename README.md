@@ -111,15 +111,34 @@ To get started with the project locally:
    ```bash
    cd OpinionBoard
    ```
-3. Install dependencies:
+3. Navigate to the backend directory:
+   ```bash
+   cd backend
+   ```
+4. Install backend dependencies:
    ```bash
    npm install
    ```
-4. Run the project:
-
+5. Run the backend server:
+   ```bash
+   npm start
+   ```
+6. Navigate out of the backend directory to the main project directory:
+   ```bash
+   cd ..
+   ```
+7. Install dependencies:
+   ```bash
+   npm install
+   ```
+8. Run the project:
    ```bash
    npm run dev
    ```
+
+## Note
+
+- This project's backend is locally setup and is not running on a server so you have to follow the installing steps and start the backend server in order to see the fetched data on the frontend UI
 
 ## Contributing
 
